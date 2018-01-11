@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+### R1D1: January 11, 2018
+
+**Today's Progress**: Finished the whodunit C program for CS50's pset4 and started with the next challenge: resizing a bmp in C
+
+**Thoughts:** How easy it is to forget what we learned if we do not practice...
+
+<!---
+**Link to work:** [Calculator App](http://www.example.com)
+-->
+
 ### R1D0: January 10, 2018
 
 **Today's Progress**: Relearned a bit about pointers in C to try an tackle the whodunit problem in pset 4 of CS50's edX course. Went through the problem files and learned about how bitmap files are stored in memory, byte by byte.
