@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+### R1D3: January 13, 2018
+
+**Today's Progress**: Finished CS50's pset4. It was easier than I thought! Looking forward to move forward to week 5.
+
+**Thoughts:** Time flies when you get into the "coding-zone"!
+
+<!---
+**Link to work:** [Calculator App](http://www.example.com)
+-->
+
 ### R1D2: January 12, 2018
 
 **Today's Progress**: Still trying out the resize challenge in CS50's pset4. Getting weird results, but I feel I am almost there! 
