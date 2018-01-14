@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### R1D4: January 14, 2018
+
+**Today's Progress**: I am watching CS50's week5's lecture. As this does not count as coding, I am in paralell continuing my studies in freecodecamp, and just finished the Twitch challenge. 
+
+**Thoughts:** I hope I do not get brain damage from learning too many things in paralell!
+
+**Link to work:** [freecodecamp Twitch JSON API challenge](https://codepen.io/danroc/live/qPXaJZ)
+
 ### R1D3: January 13, 2018
 
 **Today's Progress**: Finished CS50's pset4. It was easier than I thought! Looking forward to move forward to week 5.
