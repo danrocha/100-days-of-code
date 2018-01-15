@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+### R1D5: January 15, 2018
+
+**Today's Progress**: Two more challenges solved in freeCodeCamp's Intermediate Algorithm Scripting. So much fun.
+
+**Thoughts:** freeCodeCamp is such a cool platform!
+
+<!---
+**Link to work:** [Calculator App](http://www.example.com)
+-->
+
 ### R1D4: January 14, 2018
 
 **Today's Progress**: I am watching CS50's week5's lecture. As this does not count as coding, I am in paralell continuing my studies in freecodecamp, and just finished the Twitch challenge. 
