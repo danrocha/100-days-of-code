@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### R1D6: January 16, 2018
+
+**Today's Progress**: Five more challenges solved in freeCodeCamp's Intermediate Algorithm Scripting. 
+
+![](https://image.prntscr.com/image/94Yfm4CnT7SxYZ6PVNh6iw.png)
+
 ### R1D5: January 15, 2018
 
 **Today's Progress**: Two more challenges solved in freeCodeCamp's Intermediate Algorithm Scripting. So much fun.
