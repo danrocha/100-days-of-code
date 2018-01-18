@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### R1D8: January 18, 2018
+
+**Today's Progress**: Worked late today and almost skipped my code hour. But didn't: completed one more challenge in freeCodeCamp and watched a bit of the CS50's week5 lecture.
+
+**Thoughts:** overtime at work is an added challenge to this challenge!
+
 ### R1D7: January 17, 2018
 
 **Today's Progress**: Three more challenges solved in freeCodeCamp's Intermediate Algorithm Scripting. A bit slower as the challenges get harder!
