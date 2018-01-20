@@ -1,5 +1,9 @@
 # 100 Days Of Code - Log
 
+### R1D10: January 20, 2018
+
+**Today's Progress**: Re-learned git and started #Javascript30.
+
 ### R1D9: January 19, 2018
 
 **Today's Progress**: Finished freeCodeCamp's Intermediate Algorithm Scripting! Ready for bigger challenges.
