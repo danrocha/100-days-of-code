@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### R1D11: January 21, 2018
+
+**Today's Progress**: Back to CS50, after having watched Week 5's lecture. Trying to code a spellchecker in C!
+
+![](https://image.prntscr.com/image/eQoyS1sQTl2VFGcJMKEoRA.png)
+
 ### R1D10: January 20, 2018
 
 **Today's Progress**: Re-learned git and started #Javascript30.
