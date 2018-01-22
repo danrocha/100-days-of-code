@@ -1,5 +1,9 @@
 # 100 Days Of Code - Log
 
+### R1D12: January 22, 2018
+
+**Today's Progress**: Ugh, having a hard type of data structures in C, in particular with tries! Need a night's sleep to figure this out.
+
 ### R1D11: January 21, 2018
 
 **Today's Progress**: Back to CS50, after having watched Week 5's lecture. Trying to code a spellchecker in C!
