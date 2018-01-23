@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### R1D13: January 23, 2018
+
+**Today's Progress**: Got my tries to work! But it is still a bit blurry how things are working in the background.
+
+**Thoughts**: I feel the "click" coming...
+
 ### R1D12: January 22, 2018
 
 **Today's Progress**: Ugh, having a hard type of data structures in C, in particular with tries! Need a night's sleep to figure this out.
