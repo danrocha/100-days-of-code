@@ -1,5 +1,9 @@
 # 100 Days Of Code - Log
 
+### R1D14: January 24, 2018
+
+**Today's Progress**: My spell checker is working! Still need to finish implementing the other functions in the pset and clean up everything, but it finally "clicked" and it became all so clear.
+
 ### R1D13: January 23, 2018
 
 **Today's Progress**: Got my tries to work! But it is still a bit blurry how things are working in the background.
