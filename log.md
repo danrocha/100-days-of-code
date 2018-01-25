@@ -1,5 +1,9 @@
 # 100 Days Of Code - Log
 
+### R1D15: January 25, 2018
+
+**Today's Progress**: Thought I would not have time to code today, but here I am. Finished CS50's pset5! 
+
 ### R1D14: January 24, 2018
 
 **Today's Progress**: My spell checker is working! Still need to finish implementing the other functions in the pset and clean up everything, but it finally "clicked" and it became all so clear.
