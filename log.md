@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### R1D17: January 27, 2018
+
+**Today's Progress**: Started pset6 on CS50! Relieved to get out of C and into Python.  
+
+### R1D16: January 26, 2018
+
+**Today's Progress**: Spent some time watching CS50's lectures 5,6 and 7, ready now for pset6! Python!  
+
 ### R1D15: January 25, 2018
 
 **Today's Progress**: Thought I would not have time to code today, but here I am. Finished CS50's pset5! 
