@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### R1D18: January 28, 2018
+
+**Today's Progress**: Getting deeper into Python, by porting some older C exercises. Really easy and cool language.
+
+**Thoughts**: Muscle memory, gotta get rid of some old C customs!
+
 ### R1D17: January 27, 2018
 
 **Today's Progress**: Started pset6 on CS50! Relieved to get out of C and into Python.  
