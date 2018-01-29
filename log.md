@@ -1,5 +1,12 @@
 # 100 Days Of Code - Log
 
+### R1D19: January 29, 2018
+
+**Today's Progress**: A recurring app idea and a Medium article made me deviate from my CS50 course and dive head first into Swift and iOS11 programming. I have [this](https://designcode.io/) and [this](https://www.amazon.de/iOS-11-Programming-Fundamentals-Swift-ebook/dp/B076TQSMY5/ref=pd_sim_351_2?_encoding=UTF8&psc=1&refRID=5AN1STMC1Q60GVEB95K8) to guide me. Wish me luck.
+
+**Thoughts**: First C, then Javascript, back to C, then Python, now Swift. My brain is heating up!
+
+
 ### R1D18: January 28, 2018
 
 **Today's Progress**: Getting deeper into Python, by porting some older C exercises. Really easy and cool language.
