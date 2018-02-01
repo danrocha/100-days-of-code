@@ -1,5 +1,12 @@
 # 100 Days Of Code - Log
 
+### R1D22: February 01, 2018
+
+**Today's Progress**: Had to skip the day! No free time from waking up to bedtime! Will continue tomorrow! 
+
+### R1D21: January 31, 2018
+
+**Today's Progress**: Finshed the first half of pset6, and read a lot of Swift after that. 
 
 ### R1D20: January 30, 2018
 
