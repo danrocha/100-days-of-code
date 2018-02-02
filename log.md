@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### R1D23: February 2, 2018
+
+**Today's Progress**: Did a little Swift programming in the Udemy course I am following, long with some reading on the Swift book; also started the second half of CS50's pset6.
+
+**Thoughts**: I realized I really need a crash course on Recursion, as the application is still not 100% clear to me. 
+
 ### R1D22: February 01, 2018
 
 **Today's Progress**: Had to skip the day! No free time from waking up to bedtime! Will continue tomorrow! 
