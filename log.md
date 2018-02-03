@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### R1D24: February 3, 2018
+
+**Today's Progress**: Two new things learned today while trying out CS50's pset6: decorator functions and "memoization" in Python.
+
+**Thoughts**: Still trying to wrap my head around it, but I see so much potential. Recursion is also not 100% clear, I guess I'll learn as I go...
+
+![](https://image.prntscr.com/image/AngOwvlGQO6NNRV_PdQDmw.png)
+
 ### R1D23: February 2, 2018
 
 **Today's Progress**: Did a little Swift programming in the Udemy course I am following, long with some reading on the Swift book; also started the second half of CS50's pset6.
