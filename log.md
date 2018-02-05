@@ -1,5 +1,9 @@
 # 100 Days Of Code - Log
 
+### R1D25: February 4, 2018
+
+**Today's Progress**: Spent my hour doing some Swift learning over at Udemy.
+
 ### R1D24: February 3, 2018
 
 **Today's Progress**: Two new things learned today while trying out CS50's pset6: decorator functions and "memoization" in Python.
