@@ -1,5 +1,9 @@
 # 100 Days Of Code - Log
 
+### R1D26: February 5, 2018
+
+**Today's Progress**: Slow day at work, started to look into Firebase as a database for my movie app.
+
 ### R1D25: February 4, 2018
 
 **Today's Progress**: Spent my hour doing some Swift learning over at Udemy.
