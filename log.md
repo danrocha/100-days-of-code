@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### R1D27: February 7, 2018
+
+**Today's Progress**: Spent 2 hours tryign to figure out how to connect Postgresql with pgAdmin on Mac via SSH. So frustrating and such a waste of time!
+
+### R1D27: February 6, 2018
+
+**Today's Progress**: A discussiona t DEV.to made me realize I might be convoluted with my decision to go Firebase. Looking at MySQL now, while still learnign how to code with Swift and Xcode.
+
 ### R1D26: February 5, 2018
 
 **Today's Progress**: Slow day at work, started to look into Firebase as a database for my movie app.
