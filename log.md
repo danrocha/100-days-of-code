@@ -1,6 +1,16 @@
 # 100 Days Of Code - Log
 
-### R1D27: February 7, 2018
+### R1D30: February 9, 2018
+
+**Today's Progress**: Yes! Solved. And yes, it was a stupid mistake. Not ready to finally start programming the "admin" interface of my little app project! Can't wait to get started.
+
+**Thoughts**: Sometimes I can get dragged into a sinkhole and waste so much time. But the outcome is always good.
+
+### R1D29: February 8, 2018
+
+**Today's Progress**: Another head-banging day, still not solved my whole Postgres, pgAdmin problems. 
+
+### R1D28: February 7, 2018
 
 **Today's Progress**: Spent 2 hours tryign to figure out how to connect Postgresql with pgAdmin on Mac via SSH. So frustrating and such a waste of time!
 
