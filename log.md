@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+### R1D32: February 11, 2018
+
+**Today's Progress**: Got Flask working and really happy people like Miguel Grinberg publish amazing tutorials like [this](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world).
+
+**Thoughts**: I love how CS50's is aligning with my little Movie app idea!! Flask, Python, Databases and all that.
+
+### R1D31: February 10, 2018
+
+**Today's Progress**: Got into another sinkhole trying to setup Flask in my Linode. 
+
 ### R1D30: February 9, 2018
 
 **Today's Progress**: Yes! Solved. And yes, it was a stupid mistake. Not ready to finally start programming the "admin" interface of my little app project! Can't wait to get started.
