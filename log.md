@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### R1D33-37: February 12-16, 2018
+
+**Today's Progress**: Spent the past 4 days learning Flask via Miguel's tutorial, then started adapting it to my Move Awards idea! It is so much fun and I am coding more than 2h every day! 
+
+**Thoughts**: I gotta come back to updating here daily!!
+
 ### R1D32: February 11, 2018
 
 **Today's Progress**: Got Flask working and really happy people like Miguel Grinberg publish amazing tutorials like [this](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world).
